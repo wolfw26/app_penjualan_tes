@@ -78,6 +78,16 @@ php artisan serve --host=0.0.0.0 --port=8000
 ```
 Buka browser dan ketikan **localhost:8000** untuk membuka aplikasi
 
+### Untuk membuka smartphone
+ **pastikan samrtphone tersambung ke jaringan yang sama**
+cek IP dari perangkat yang terdapat aplikasi ini didalamnya
+perintah untuk melihat IP perangkat : 
+```sh
+ipconfig
+```
+lihat pada bagian ip address
+untuk menjalankan, buka browser dan ketik **ip.address.perangkat.server:8000**
+
 
 
 
