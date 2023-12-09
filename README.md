@@ -66,6 +66,13 @@ Buka code folder yang sudah di copy, dan salin **.env.example** menjadi **.env**
 > Asia/Makassar
 > Asia/Jayapura
 
+**Genertae APP_KEY**
+
+```sh
+php artisan key:generate
+
+```
+
 ### Menjalankan app
 Jalankan perintah untuk membuat database, table dan menjalankan seeder
 
